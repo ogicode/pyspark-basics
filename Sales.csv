@@ -1,0 +1,13 @@
+order_id,date,city,product,quantity,price
+1,2026-10-01,Graz,Laptop,1,899.00
+2,2026-10-01,Vienna,Mouse,3,19.90
+3,2026-10-02,Graz,Monitor,2,229.00
+4,2026-10-02,Linz,Laptop,1,949.00
+5,2026-10-03,Vienna,Keyboard,2,49.90
+6,2026-10-03,Graz,Mouse,5,19.90
+7,2026-10-04,Salzburg,Monitor,1,239.00
+8,2026-10-04,Vienna,Laptop,2,899.00
+9,2026-10-05,Linz,Keyboard,4,45.00
+10,2026-10-05,Graz,Laptop,1,999.00
+11,2026-10-06,Salzburg,Mouse,2,21.50
+12,2026-10-06,Vienna,Monitor,3,219.00
