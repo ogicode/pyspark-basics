@@ -8,7 +8,7 @@ while for structured I plan to use Airflow+dbt.
 
 `Spark_Basics.py` runs Spark locally:
 
-1. Loads `Sales.csv` (order_id, date, city, product, quantity, price)
+1. Loads `sales.csv` (order_id, date, city, product, quantity, price)
 2. Adds `revenue = quantity * price`
 3. Filters orders from Graz
 4. Groups revenue and order count by city
