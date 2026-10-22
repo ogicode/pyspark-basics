@@ -1,8 +1,8 @@
 # Spark Basics
 
-In this Project I explore PySpark with a small sales dataset of sales data.
-I plan to use it on more complex projects in the future for unstructured data,
-while for structured i paln to use airflow+dbt.
+In this project I explore PySpark with a small sales dataset.<br>
+I plan to use it on more complex projects in the future for unstructured data,<br>
+while for structured I plan to use Airflow+dbt.
 
 ## What it does
 
