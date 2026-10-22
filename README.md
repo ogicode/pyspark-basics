@@ -3,6 +3,7 @@
 In this project I explore PySpark with a small sales dataset.<br>
 I plan to use it on more complex projects in the future for unstructured data,<br>
 while for structured I plan to use Airflow+dbt.
+Next I will build a more complex stack with seaweed or another db for unstructured data.
 
 ## What it does
 
